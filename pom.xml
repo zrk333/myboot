@@ -54,13 +54,13 @@
 		</dependency>
 
 		<!-- mybatis -->
-	<!--	<dependency>
+		<dependency>
 			<groupId>org.mybatis.spring.boot</groupId>
 			<artifactId>mybatis-spring-boot-starter</artifactId>
 			<version>1.3.2</version>
 		</dependency>
 
-		&lt;!&ndash; druid &ndash;&gt;
+		<!-- druid -->
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>druid-spring-boot-starter</artifactId>
@@ -71,7 +71,7 @@
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<scope>runtime</scope>
-		</dependency>-->
+		</dependency>
 
 		<!-- fastjson -->
 		<dependency>
